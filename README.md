@@ -13,5 +13,30 @@ This includes the following workshops:
 - ALMA Proposal Preparation, [Universidad de Atacama](https://science.nrao.edu/facilities/alma/naasc-workshops/nrao-cd-atacama26) (UDA), March 25, 2026
 - ALMA Data Reduction, [TBD], September/October 2026
 
-
 These events are supported by NRAO/NAASC.
+
+#
+
+### Introduction
+- Basics of Radio Interferometry
+- ALMA Science and Capabilities
+
+#
+
+### ALMA Proposal Preparation
+- Cycle 13 Capabilities
+- ALMA Science Archive
+- Proposal Preparation
+- Proposal Review Process
+- Mock Observations
+- Observing Tool (OT)
+
+#
+
+### ALMA Data Processing
+- Introduction to CASA
+- Continuum Imaging
+- Spectral Line Imaging
+- Data Analysis and Science
+- Visualization with CARTA
+- CASA Hands-on Session
