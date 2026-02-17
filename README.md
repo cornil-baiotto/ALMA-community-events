@@ -40,3 +40,14 @@ These events are supported by NRAO/NAASC.
 - Data Analysis and Science
 - Visualization with CARTA
 - CASA Hands-on Session
+
+#
+
+### Useful Links
+- Create an [ALMA user account](https://asa.alma.cl/UserRegistration/newAccount.jsp?arc=eu)
+- [ALMA Science Archive](https://almascience.nrao.edu/aq/?result_view=observations)
+- [ALMA Observing Tool](https://almascience.eso.org/proposing/observing-tool)
+- Download [CASA v6.7](https://casa.nrao.edu/)
+- [List of CASA tasks](https://casadocs.readthedocs.io/en/stable/api/casatasks.html)
+- Download [CARTA v5.1](https://cartavis.org/)
+- [Schematic figures](https://drive.google.com/drive/folders/1JlXHTZqovMDQcEMiH5vDaevE4u5Wvzz0?usp=drive_link) (C. Cornil-Baïotto)
