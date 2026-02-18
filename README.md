@@ -49,4 +49,4 @@ These events are supported by NRAO/NAASC ([ALMA Ambassadors Program](https://sci
 - Download [CASA v6.7](https://casa.nrao.edu/)
 - [List of CASA tasks](https://casadocs.readthedocs.io/en/stable/api/casatasks.html)
 - Download [CARTA v5.1](https://cartavis.org/)
-- [Schematic figures](https://drive.google.com/drive/folders/1JlXHTZqovMDQcEMiH5vDaevE4u5Wvzz0?usp=drive_link) (C. Cornil-Baïotto)
+- [ALMA schematic figures](https://drive.google.com/drive/folders/1JlXHTZqovMDQcEMiH5vDaevE4u5Wvzz0?usp=drive_link)
