@@ -17,7 +17,7 @@ These events are supported by NRAO/[NAASC](https://science.nrao.edu/facilities/a
 #
 
 ### Introduction
->1.1. Basics of Radio Interferometry [[slides](docs/)] <br>
+>1.1. Basics of Radio Interferometry [[slides](docs/1.1_Basics-of-Radio-Interferometry.pdf)] <br>
  1.2. ALMA Science and Capabilities [[slides](docs/1.2_ALMA-Science-and-Capabilities.pdf)]
 
 #
