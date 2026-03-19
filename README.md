@@ -25,10 +25,10 @@ These events are supported by NRAO/[NAASC](https://science.nrao.edu/facilities/a
 ### ALMA Proposal Preparation
 >2.1. Cycle 13 Capabilities [[slides](docs/2.1_ALMA-Cycle-13-Capabilities.pdf)] <br>
  2.2. ALMA Science Archive [[slides](docs/)] <br>
- 2.3. Proposal Preparation [[slides](docs/)] <br>
- 2.4. Proposal Review Process [[slides](docs/)] <br>
+ 2.3. Proposal Preparation [[slides](docs/2.3_Proposal_Preparation.pdf)] <br>
+ 2.4. Proposal Review Process [[slides](docs/2.4_ALMA-Proposal-Review-Process.pdf)] <br>
  2.5. Mock Observations [[slides](docs/), [code](docs/)] <br>
- 2.6. Observing Tool (OT) [[slides](docs/)]
+ 2.6. Observing Tool (OT) [[slides](docs/2.6_ALMA-Observing-Tool.pdf)]
 
 #
 
@@ -45,7 +45,7 @@ These events are supported by NRAO/[NAASC](https://science.nrao.edu/facilities/a
 ### Useful Links
 >- Create an [ALMA user account](https://asa.alma.cl/UserRegistration/newAccount.jsp?arc=eu)
 >- [ALMA Science Archive](https://almascience.nrao.edu/aq/?result_view=observations)
->- [ALMA Observing Tool](https://almascience.eso.org/proposing/observing-tool)
+>- [ALMA Observing Tool](https://cycle-13.sps.alma.cl/ngot/)
 >- Download [CASA v6.7](https://casa.nrao.edu/)
 >- [List of CASA tasks](https://casadocs.readthedocs.io/en/stable/api/casatasks.html)
 >- Download [CARTA v5.1](https://cartavis.org/)
