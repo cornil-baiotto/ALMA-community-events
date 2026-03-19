@@ -23,7 +23,7 @@ These events are supported by NRAO/[NAASC](https://science.nrao.edu/facilities/a
 #
 
 ### ALMA Proposal Preparation
->2.1. Cycle 13 Capabilities [[slides](docs/)] <br>
+>2.1. Cycle 13 Capabilities [[slides](docs/2.1_ALMA-Cycle-13-Capabilities.pdf)] <br>
  2.2. ALMA Science Archive [[slides](docs/)] <br>
  2.3. Proposal Preparation [[slides](docs/)] <br>
  2.4. Proposal Review Process [[slides](docs/)] <br>
