@@ -54,4 +54,4 @@ These events are supported by NRAO/[NAASC](https://science.nrao.edu/facilities/a
 
 #
 
-Topics: astrophysics: millimeter and submillimeter observations – radio interferometry: ALMA Observatory
+Topics: `astrophysics` `millimeter` `submillimeter` `radio interferometry` `ALMA Observatory`
