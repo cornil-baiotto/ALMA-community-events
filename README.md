@@ -2,6 +2,8 @@
 
 Repository: `cornil-baiotto/ALMA-Community-Events`
 
+Topics: `astrophysics` `millimeter` `submillimeter` `radio interferometry` `ALMA Observatory` `data reduction`
+
 ---
 
 ### ALMA Cycle 13 Community Events in Chile
@@ -51,7 +53,3 @@ These events are supported by NRAO/[NAASC](https://science.nrao.edu/facilities/a
 >- Data reduction [cheat sheet](https://github.com/cornil-baiotto/Astro-Tutorials/blob/main/casa_almadr_2025v1.pdf)
 >- Download [CARTA v5.1](https://cartavis.org/)
 >- [ALMA schematic figures](https://drive.google.com/drive/folders/1JlXHTZqovMDQcEMiH5vDaevE4u5Wvzz0?usp=drive_link)
-
-#
-
-Topics: `astrophysics` `millimeter` `submillimeter` `radio interferometry` `ALMA Observatory` `data reduction`
