@@ -1,4 +1,4 @@
-## 🌌 ALMA Cycle 13 Community Events in Chile
+## :milky_way: ALMA Cycle 13 Community Events in Chile
 
 All material (slides, codes) presented during the following workshops will be uploaded to this repository.
 
